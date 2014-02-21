@@ -196,11 +196,13 @@ Fixflow内核采用的Token驱动驱动机制,Api则层借鉴了Activiti的设�
 
 
 
-#未来的版本
+#未来全新的版本
 ### 6.0.0（2014-？）
 功能方向：
  
-设立开源组织 Fixflow Org管理,全新版本,BPMN2.0规范全方位支持,同时引入  Dubbo、MuleEsb、ActiveMQ 支持
+设立开源组织 Fixflow Org管理,
+全新版本,BPMN2.0规范全方位支持,
+同时引入  Dubbo、MuleEsb、ActiveMQ 支持
 
 1.可扩展的实现事件支持(Message、Error、Signal、Link、Compensation、Escalation、Conditional)
 
@@ -247,30 +249,6 @@ Fixflow内核采用的Token驱动驱动机制,Api则层借鉴了Activiti的设�
 
 4. 新增执行Rule配置。
 
-### 5.0.0（2013-10）
-1. FixFlow引擎成为独立项目,从CS SOA中间件中剥离,贡献给开源社区。
-
-
-### 4.7.0（2013-6）
-1. CS SOA中间件 4.7版本发布.内置fixflow4.7版本流程引擎。
-
-
-### 4.0.0（2012-3）
-1. CS SOA中间件 4.0版本发布.内置fixflow4.0版本流程引擎
-2. 开始支持BPMN标准,设计器改为基于Eclipse插件方式。
-
-### 3.5.0（2010-5）
-1. CS SOA中间件 3.5版本发布.内置fixflow3.5版本流程引擎。
-
-
-### 3.0.0（2009-11）
-1. CS SOA中间件 3.0版本发布.内置fixflow3.0版本流程引擎。
 
 
 
-### 2.5.0（2007-06）
-1. ES平 2.5版本发布.内置fixflow2.5版本流程引擎,分.net、java两个版本。
-
-
-### 1.0.0（2000-05）
-1. ES平台 1.0版本发布.内置fixflow1.0版本流程引擎
